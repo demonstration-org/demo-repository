@@ -4,6 +4,6 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window. 
     public static void main(String args[]) 
     { 
-        System.out.println("Hey there user! Hows it goin?"); 
+        System.out.println("yo"); 
     } 
 } 
